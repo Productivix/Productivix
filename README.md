@@ -1,6 +1,6 @@
-- 👋 Hi, I’m William Piedfort representing @Productivix sarl
-- 👀 I’m interested in mobile Android apps for scanning & mesuring, traceability, mainly for production, logistics , transports
-- 🌱 I’m currently learning JS, React Js and React Native, with the help of professionals in Le Reacteur company, at distance.
+- 👋 Hi, I’m William Piedfort representing Productivix sarl
+- 👀 I’m interested in and developping mobile Android apps for scanning & mesuring, traceability, mainly for production, logistics , transports
+
 - 💞️ I’m looking to collaborate on OTA updates for Android (or Ios) mobile  apps in React Native, programs without Google Play, with a private Node serveur
 - 📫 How to reach me : https://www.productivix.com 
 
