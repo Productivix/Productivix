@@ -2,6 +2,7 @@
 - 👀 I’m interested in and developping mobile Android apps for scanning & mesuring, traceability, mainly for production, logistics , transports
 
 - 💞️ I’m looking to collaborate on OTA updates for Android (or Ios) mobile  apps in React Native, programs without Google Play, with a private Node serveur
+- I propose support and TMA contracts on React-Native for help in develpment, focused on offline apps and scanning
 - 📫 How to reach me : https://www.productivix.com 
 
 <!---
